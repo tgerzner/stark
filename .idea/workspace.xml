@@ -4,6 +4,7 @@
     <list default="true" id="24d24dea-0efc-4b82-b794-03913ae8b892" name="Default" comment="" />
     <ignored path="Testapp.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/config.xml" changelist="24d24dea-0efc-4b82-b794-03913ae8b892" time="1407759762033" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +24,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="25" column="9" selection-start="971" selection-end="971" vertical-scroll-proportion="-16.346153">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../Mobile App Developement Course/Chapter 2 - Intro to PhoneGap/S4 - Your First PhoneGap App/Program Files/test_app/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="73" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.5388548">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Mobile App Developement Course/Chapter 2 - Intro to PhoneGap/S4 - Your First PhoneGap App/Program Files/test_app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="1060" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -38,6 +57,14 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/../../Mobile App Developement Course/Chapter 2 - Intro to PhoneGap/S4 - Your First PhoneGap App/Program Files/test_app/config.xml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -213,9 +240,23 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Mobile App Developement Course/Chapter 2 - Intro to PhoneGap/S4 - Your First PhoneGap App/Program Files/test_app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1060" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="25" column="9" selection-start="971" selection-end="971" vertical-scroll-proportion="-16.346153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Mobile App Developement Course/Chapter 2 - Intro to PhoneGap/S4 - Your First PhoneGap App/Program Files/test_app/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="73" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.5388548">
           <folding />
         </state>
       </provider>
