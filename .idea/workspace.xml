@@ -28,7 +28,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="4" selection-start="943" selection-end="943" vertical-scroll-proportion="-17.0">
+            <state line="33" column="0" selection-start="1087" selection-end="1087" vertical-scroll-proportion="-20.76923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/Eduonix/Mobile App Developement Course/Chapter 3 - Location Features/S1 - Accelerometer/Program Files/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="53" selection-start="1463" selection-end="1469" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -37,7 +46,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://T:/A1334_IVGI_Daten/A1334_S_Ue/GIn_shj/Eduonix/Stark/Acc/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="51" selection-start="708" selection-end="721" vertical-scroll-proportion="0.034764826">
+            <state line="29" column="7" selection-start="950" selection-end="950" vertical-scroll-proportion="0.50408995">
               <folding />
             </state>
           </provider>
@@ -58,6 +67,8 @@
         <option value="D:/Eduonix/Stark/Acc/config.xml" />
         <option value="T:/A1334_IVGI_Daten/A1334_S_Ue/GIn_shj/Eduonix/Stark/Acc/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="D:/Eduonix/Mobile App Developement Course/Chapter 3 - Location Features/S1 - Accelerometer/Program Files/config.xml" />
+        <option value="T:/A1334_IVGI_Daten/A1334_S_Ue/GIn_shj/Eduonix/Stark/Acc/config.xml" />
       </list>
     </option>
   </component>
@@ -270,13 +281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Eduonix/Mobile App Developement Course/Chapter 3 - Location Features/S1 - Accelerometer/Program Files/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="4" selection-start="1249" selection-end="1308" vertical-scroll-proportion="0.5562372">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
@@ -321,14 +325,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="4" selection-start="943" selection-end="943" vertical-scroll-proportion="-17.0">
+        <state line="33" column="0" selection-start="1087" selection-end="1087" vertical-scroll-proportion="-20.76923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Eduonix/Mobile App Developement Course/Chapter 3 - Location Features/S1 - Accelerometer/Program Files/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="53" selection-start="1463" selection-end="1469" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://T:/A1334_IVGI_Daten/A1334_S_Ue/GIn_shj/Eduonix/Stark/Acc/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="51" selection-start="708" selection-end="721" vertical-scroll-proportion="0.034764826">
+        <state line="29" column="7" selection-start="950" selection-end="950" vertical-scroll-proportion="0.50408995">
           <folding />
         </state>
       </provider>

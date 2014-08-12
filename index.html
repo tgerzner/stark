@@ -24,23 +24,23 @@
         var options = {frequency: 3000};
         watchID = navigator.accelerometer.watchAcceleration(onSuccess,onError,options);
     }
-    
+
     function stopWatch(){
         if(watchID){
             navigator.acceleromter.clearWatch(watchID);
             watchID = null;
         }
     }
-    
+
     function onSuccess(acceleration){
         var element = document.getElementById('accelerometer')
         element.innerHTML = 'Acceleration X: '+ acceleration.x + '<br />'+
                             'Acceleration Y: '+ acceleration.y + '<br />'+
                             'Acceleration Z: '+ acceleration.z + '<br />'+
                             'Timestamp: '     + acceleration.timestamp + '<br />';
-                            
+
     }
-    
+
     function onError(){
         alert('There was a problem');
     }
