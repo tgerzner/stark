@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>PhoneGap Application</title>
-    <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
+    <script type="text/javascript" charset="utf-8" src="phonegap.js"></script>
     <script type="text/javascript">
 
     var WatchID =  null;
@@ -11,36 +11,30 @@
 
     // PhoneGap is ready
     function onDeviceReady() {
-        navigator.accelerometer.getCurrentAcceleration(accelerometerSuccess, accelerometerError);
         startWatch();
     }
-    function accelerometerSuccess(acceleration) {
-    alert('Acceleration X: ' + acceleration.x + '\n' +
-          'Acceleration Y: ' + acceleration.y + '\n' +
-          'Acceleration Z: ' + acceleration.z + '\n' +
-          'Timestamp: '      + acceleration.timestamp + '\n');
-};
+    
     function startWatch(){
         var options = {frequency: 3000};
         watchID = navigator.accelerometer.watchAcceleration(onSuccess,onError,options);
     }
-
+    
     function stopWatch(){
         if(watchID){
-            navigator.acceleromter.clearWatch(watchID);
+            navigatoe.acceleromter.clearWatch(watchID);
             watchID = null;
         }
     }
-
+    
     function onSuccess(acceleration){
         var element = document.getElementById('accelerometer')
         element.innerHTML = 'Acceleration X: '+ acceleration.x + '<br />'+
                             'Acceleration Y: '+ acceleration.y + '<br />'+
                             'Acceleration Z: '+ acceleration.z + '<br />'+
                             'Timestamp: '     + acceleration.timestamp + '<br />';
-
+                            
     }
-
+    
     function onError(){
         alert('There was a problem');
     }

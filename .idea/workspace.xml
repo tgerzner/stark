@@ -5,7 +5,7 @@
     <ignored path="Testapp.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/config.xml" changelist="24d24dea-0efc-4b82-b794-03913ae8b892" time="1407759762033" ignored="false" />
-    <file path="/index.html" changelist="24d24dea-0efc-4b82-b794-03913ae8b892" time="1407842687558" ignored="false" />
+    <file path="/index.html" changelist="24d24dea-0efc-4b82-b794-03913ae8b892" time="1407844908049" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="1087" selection-end="1087" vertical-scroll-proportion="-20.76923">
+            <state line="20" column="4" selection-start="570" selection-end="570" vertical-scroll-proportion="-13.076923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/Eduonix/Mobile App Developement Course/Chapter 3 - Location Features/S1 - Accelerometer/Program Files/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="9" selection-start="0" selection-end="1355" vertical-scroll-proportion="-16.346153">
               <folding />
             </state>
           </provider>
@@ -37,7 +46,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://D:/Eduonix/Mobile App Developement Course/Chapter 3 - Location Features/S1 - Accelerometer/Program Files/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="18" selection-start="1463" selection-end="1469" vertical-scroll-proportion="0.0">
+            <state line="26" column="54" selection-start="0" selection-end="5305" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -46,16 +55,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="60" selection-start="721" selection-end="721" vertical-scroll-proportion="0.3997955">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://T:/A1334_IVGI_Daten/A1334_S_Ue/GIn_shj/Eduonix/Stark/Acc/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="47" selection-start="708" selection-end="721" vertical-scroll-proportion="0.0">
+            <state line="83" column="9" selection-start="5305" selection-end="5305" vertical-scroll-proportion="0.9652352">
               <folding />
             </state>
           </provider>
@@ -74,10 +74,10 @@
         <option value="$PROJECT_DIR$/../../Mobile App Developement Course/Chapter 2 - Intro to PhoneGap/S4 - Your First PhoneGap App/Program Files/test_app/config.xml" />
         <option value="D:/Eduonix/Stark/Acc/config.xml" />
         <option value="T:/A1334_IVGI_Daten/A1334_S_Ue/GIn_shj/Eduonix/Stark/Acc/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="D:/Eduonix/Mobile App Developement Course/Chapter 3 - Location Features/S1 - Accelerometer/Program Files/config.xml" />
         <option value="T:/A1334_IVGI_Daten/A1334_S_Ue/GIn_shj/Eduonix/Stark/Acc/config.xml" />
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -325,20 +325,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1087" selection-end="1087" vertical-scroll-proportion="-20.76923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Eduonix/Mobile App Developement Course/Chapter 3 - Location Features/S1 - Accelerometer/Program Files/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="18" selection-start="1463" selection-end="1469" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://T:/A1334_IVGI_Daten/A1334_S_Ue/GIn_shj/Eduonix/Stark/Acc/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="47" selection-start="708" selection-end="721" vertical-scroll-proportion="0.0">
@@ -346,9 +332,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Eduonix/Mobile App Developement Course/Chapter 3 - Location Features/S1 - Accelerometer/Program Files/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="9" selection-start="0" selection-end="1355" vertical-scroll-proportion="-16.346153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="4" selection-start="570" selection-end="570" vertical-scroll-proportion="-13.076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Eduonix/Mobile App Developement Course/Chapter 3 - Location Features/S1 - Accelerometer/Program Files/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="54" selection-start="0" selection-end="5305" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="60" selection-start="721" selection-end="721" vertical-scroll-proportion="0.3997955">
+        <state line="83" column="9" selection-start="5305" selection-end="5305" vertical-scroll-proportion="0.9652352">
           <folding />
         </state>
       </provider>
